@@ -130,14 +130,7 @@ export const Contact = () => {
                     </form>
                 )}
 
-                <div className="mt-24 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm uppercase tracking-wider">
-                    <p>© 2026 Ravi Sankar. All Rights Reserved.</p>
-                    <div className="flex gap-8 mt-4 md:mt-0">
-                        <a href="#" className="hover:text-white transition-colors">Styleguide</a>
-                        <a href="#" className="hover:text-white transition-colors">Licensing</a>
-                        <a href="#" className="hover:text-white transition-colors">Changelog</a>
-                    </div>
-                </div>
+
             </div>
         </Section>
     );
