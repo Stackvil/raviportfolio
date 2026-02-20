@@ -36,6 +36,24 @@ export const Navbar = () => {
         >
             <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
                 {/* Logo */}
+                <a href="#" className="flex items-center gap-3 group">
+                    <div className="relative w-10 h-10 overflow-hidden rounded-lg">
+                        <img
+                            src="/images/stackvil-logo.png"
+                            alt="Stackvil Logo"
+                            className="w-full h-full object-contain"
+                        />
+                    </div>
+                    <div className="flex flex-col">
+                        <span className="text-xl font-bold font-heading text-white leading-none group-hover:text-primary transition-colors">
+                            RAVI SANKAR
+                        </span>
+                        <span className="text-[10px] text-gray-500 font-medium tracking-widest uppercase">
+                            Stackvil Technologies
+                        </span>
+                    </div>
+                </a>
+
                 {/* Why Hire Me Button */}
                 <a
                     href="#tour"
