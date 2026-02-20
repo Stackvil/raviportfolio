@@ -82,12 +82,12 @@ export const Hero = () => {
                 </motion.div>
 
                 {/* Bottom Status Panel */}
-                <div className="absolute bottom-0 right-6 z-20 hidden md:block">
-                    <div className="flex items-end gap-1">
-                        <span className="text-5xl font-bold font-heading text-white">$15</span>
-                        <span className="text-xl text-gray-400 mb-2">.00</span>
+                <div className="absolute bottom-4 right-0 md:right-6 z-20">
+                    <div className="flex items-end gap-1 justify-end">
+                        <span className="text-4xl md:text-5xl font-bold font-heading text-white">$15</span>
+                        <span className="text-lg md:text-xl text-gray-400 mb-2">.00</span>
                     </div>
-                    <p className="text-right text-gray-500 text-sm uppercase tracking-wider">Hourly Rate</p>
+                    <p className="text-right text-gray-500 text-xs md:text-sm uppercase tracking-wider">Hourly Rate</p>
                 </div>
             </div>
 
