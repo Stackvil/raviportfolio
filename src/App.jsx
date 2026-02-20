@@ -5,7 +5,7 @@ import { About } from "./sections/About";
 import { Services } from "./sections/Services";
 import { Projects } from "./sections/Projects";
 import { AllProjects } from "./sections/AllProjects";
-import { Testimonials } from "./sections/Testimonials";
+
 import { Contact } from "./sections/Contact";
 import { Workflow } from "./sections/Workflow";
 
@@ -24,7 +24,7 @@ function App() {
         <Workflow />
         <Projects />
         <AllProjects />
-        <Testimonials />
+
         <Contact />
       </main>
 
