@@ -116,7 +116,7 @@ ${formData.projectDetails}`;
                                                     onChange={handleChange}
                                                     required
                                                     className="w-full bg-white/5 border border-white/10 rounded-lg p-3 text-white focus:border-primary focus:outline-none transition-colors"
-                                                    placeholder="John Doe"
+                                                    placeholder=""
                                                 />
                                             </div>
                                             <div className="space-y-1">
@@ -128,7 +128,7 @@ ${formData.projectDetails}`;
                                                     onChange={handleChange}
                                                     required
                                                     className="w-full bg-white/5 border border-white/10 rounded-lg p-3 text-white focus:border-primary focus:outline-none transition-colors"
-                                                    placeholder="john@example.com"
+                                                    placeholder=""
                                                 />
                                             </div>
                                         </div>
