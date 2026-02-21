@@ -26,7 +26,7 @@ export const services = [
     },
     {
         title: "DevOps & Automation",
-        description: "Founding and managing enterprise CI/CD pipelines and cloud infrastructure at Stackvil.",
+        description: "Implementing enterprise CI/CD pipelines and scalable cloud infrastructure.",
         icon: "Rocket"
     }
 ];

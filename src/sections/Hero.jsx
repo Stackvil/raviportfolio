@@ -40,7 +40,7 @@ export const Hero = () => {
                             <div className="absolute top-0 left-0 h-full w-1/3 bg-primary" />
                         </div>
                         <p className="text-xl md:text-2xl text-gray-300 font-light mb-8">
-                            DevOps Expert | Founder of Stackvil
+                            DevOps Expert
                         </p>
 
                         <motion.div
@@ -51,7 +51,7 @@ export const Hero = () => {
                         >
                             <QuoteIcon className="text-primary mb-4 w-8 h-8" />
                             <p className="text-gray-400 text-sm leading-relaxed uppercase tracking-wide">
-                                With 1+ years of dedicated professional experience. I design high-performance architectures, automate complex deployment pipelines, and lead digital transformation as the founder of Stackvil Technologies.
+                                With 1+ years of dedicated professional experience. I design high-performance architectures and automate complex deployment pipelines.
                             </p>
                         </motion.div>
                     </motion.div>
