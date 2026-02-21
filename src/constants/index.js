@@ -15,18 +15,18 @@ export const skills = [
 
 export const services = [
     {
-        title: "Web Design",
-        description: "Creating smooth, interaction-rich websites with high-performance animations.",
+        title: "Enterprise Architecture",
+        description: "Designing scalable, high-availability systems with specialized architectural expertise.",
         icon: "Layout"
     },
     {
-        title: "App Design",
-        description: "Designing intuitive mobile applications that provide seamless user experiences.",
+        title: "Full Stack Development",
+        description: "Building robust end-to-end applications using modern frameworks and performance-first logic.",
         icon: "Smartphone"
     },
     {
-        title: "Branding",
-        description: "Developing unique brand identities that stand out in the digital landscape.",
+        title: "DevOps & Automation",
+        description: "Founding and managing enterprise CI/CD pipelines and cloud infrastructure at Stackvil.",
         icon: "Rocket"
     }
 ];

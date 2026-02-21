@@ -40,7 +40,7 @@ export const Hero = () => {
                             <div className="absolute top-0 left-0 h-full w-1/3 bg-primary" />
                         </div>
                         <p className="text-xl md:text-2xl text-gray-300 font-light mb-8">
-                            Web Designer | DevOps Engineer | Digital Marketer
+                            Full Stack Developer | DevOps Expert | Founder of Stackvil
                         </p>
 
                         <motion.div
@@ -51,7 +51,7 @@ export const Hero = () => {
                         >
                             <QuoteIcon className="text-primary mb-4 w-8 h-8" />
                             <p className="text-gray-400 text-sm leading-relaxed uppercase tracking-wide">
-                                Creative Web Designer, DevOps Engineer, and Digital Marketing Strategist. I design high-performance websites, automate deployment pipelines, and help brands scale digitally with data-driven marketing.
+                                With 1+ years of dedicated professional experience as a Full Stack Developer and DevOps Expert. I design high-performance architectures, automate complex deployment pipelines, and lead digital transformation as the founder of Stackvil Technologies.
                             </p>
                         </motion.div>
                     </motion.div>

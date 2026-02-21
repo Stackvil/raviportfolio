@@ -45,13 +45,13 @@ export const About = () => {
                     </h2>
 
                     <p className="text-gray-400 leading-relaxed max-w-xl mb-12">
-                        With 1+ year of hands-on experience in Web Development, DevOps practices, and Digital Marketing, I have built and deployed real-world projects that focus on performance, scalability, and business growth.
+                        With 1+ years of professional experience in Full Stack Development, DevOps architectures, and Enterprise Digital Strategy, I have built and scaled systems that focus on security, high-availability, and unmatched performance.
                     </p>
 
                     <div className="grid grid-cols-2 gap-8">
                         <div>
                             <h3 className="text-3xl font-bold text-white mb-1">1+</h3>
-                            <p className="text-gray-500 text-sm uppercase">Years Experience</p>
+                            <p className="text-gray-500 text-sm uppercase">Year Experience</p>
                         </div>
                         <div>
                             <h3 className="text-3xl font-bold text-white mb-1">15+</h3>
